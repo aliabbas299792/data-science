@@ -1,0 +1,6 @@
+{
+  "name": "Data Science Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
